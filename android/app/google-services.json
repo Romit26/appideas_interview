@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798310510197",
+    "project_id": "appidea-8ff44",
+    "storage_bucket": "appidea-8ff44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798310510197:android:f5e4fee5ab60bffbe1123c",
+        "android_client_info": {
+          "package_name": "com.roommanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD91uFO4a59Tp6ftYiuKp8kRo5sD333Mfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
